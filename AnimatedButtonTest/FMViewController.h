@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface FMViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIButton *button;
 
 @end
