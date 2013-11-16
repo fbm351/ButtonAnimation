@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    [self.button setBackgroundImage:[UIImage animatedImageNamed:@"glow-button" duration:4.0] forState:UIControlStateNormal];
+    [self.button setBackgroundImage:[UIImage animatedImageNamed:@"GlowButton" duration:4.0] forState:UIControlStateNormal];
 }
 
 - (void)didReceiveMemoryWarning
